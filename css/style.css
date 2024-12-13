@@ -27,7 +27,7 @@ body {
   gap: 10px;
 }
 
-.ukraine {
+.country {
   width: 300px;
   height: 200px;
 }
@@ -45,8 +45,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 300px;
-  height: 200px;
   box-shadow: 2px 2px 5px;
 }
 
@@ -58,8 +56,6 @@ body {
 }
 
 .Iceland {
-  width: 300px;
-  height: 200px;
   background-color: var(--iceld-blue);
   position: relative;
 }
@@ -97,8 +93,6 @@ body {
 }
 
 .czech {
-  width: 300px;
-  height: 200px;
   box-shadow: 2px 2px 5px;
   position: relative;
 }
