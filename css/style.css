@@ -29,3 +29,19 @@ body {
   height: 100px;
   background-color: blue;
 }
+
+.japan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+  box-shadow: 2px 2px 5px;
+}
+
+.red-circle {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
