@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 10px 20px;
+}
+
+.ukraine {
+  width: 300px;
+  height: 200px;
+}
+
+.yellow {
+  height: 100px;
+  background-color: yellow;
+}
+.blue-ukr {
+  height: 100px;
+  background-color: blue;
+}
